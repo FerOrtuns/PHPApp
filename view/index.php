@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyPHPApp</title>
+    <title>MyPHPApp2</title>
     <link href="../view/css/styles.css" rel="stylesheet" type="text/css">
     <script src="../controller/functions/functions.js"></script>
 </head>
