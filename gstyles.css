@@ -1,0 +1,76 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color:#333333; color:#fff }
+
+.spacer{
+    flex: 1 1 auto;
+}
+
+
+body{
+    background-color: #343a40;
+    color: white;
+    font-family:  'Arial';
+}
+
+main {
+ margin-top: 153px;
+}
+
+header {
+    background: linear-gradient( #000, #343a40);
+    color: #fff;
+    padding: 5px;
+  }
+  
+  .logo img {
+    height: 57px;
+    width: fit-content;
+    margin: 20px;
+  }
+  .titulo{
+    color: lightgreen;
+    margin: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav li:last-child {
+    margin-right: 0;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+.menunav{
+  display: block;
+}
+
+.cards {
+  display: flex;
+  padding: 5px;
+}
+  
+.parrafo{
+  font-size: smaller;
+ }
+ .titulocard{
+  color: aquamarine;
+ }
+
+ .mytablehead{
+  background: #fff;
+  color: #000;
+  
+ }
